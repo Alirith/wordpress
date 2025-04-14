@@ -9,7 +9,7 @@ entries:
     name: mysql
     type: application
     urls:
-    - https://github.com/Alirith/wordpress/mysql-0.1.0.tgz
+    - https://github.com/Alirith/wordpress/blob/main/mysql-0.1.0.tgz
     version: 0.1.0
   wordpress:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: wordpress
     type: application
     urls:
-    - https://github.com/Alirith/wordpress/wordpress-0.1.0.tgz
+    - https://github.com/Alirith/wordpress/blob/main/wordpress-0.1.0.tgz
     version: 0.1.0
 generated: "2025-04-12T12:23:03.602343084Z"
